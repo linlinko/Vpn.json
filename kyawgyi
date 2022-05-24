@@ -1,0 +1,68 @@
+{
+   "files": [ 
+
+      {
+         "name": "DtacNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/DTAC-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP2 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/DTAC-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP3 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/DTAC-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP4 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/DTAC-01.ovpn"
+      },
+
+
+{
+         "name": "DtacNoPro_VIP5 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/DTAC-01.ovpn"
+      },
+
+
+
+{
+         "name": "TrueNoPro_VIP1",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/TRUE-01.ovpn"
+      }
+
+,
+{
+         "name": "TrueNoPro_VIP2 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/TRUE-01.ovpn"
+      }
+,
+
+{
+         "name": "TrueNoPro_VIP3 
+",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/TRUE-01.ovpn"
+      }
+,
+
+{
+         "name": "TrueNoPro_VIP4 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/TRUE-01.ovpn"
+      }
+,
+
+{
+         "name": "TrueNoPro_VIP5 ",
+         "url": "https://raw.githubusercontent.com/linlinko/Vpn.json/main/TRUE-01.ovpn"
+      }
+   ],
+"message":"ေန႔စြဲ ေမ ရက္24\nဖိုင္ဗားရွင္း 1\nUpdate by: Kyaw gyi\nဖိုင္အသစ္ရခဲ့တယ္ ",
+   "title":"အပ္ဒိပ္ရရွိနိုင္ပါပီး" ,
+   "version": 1
+}
